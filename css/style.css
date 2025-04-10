@@ -93,8 +93,6 @@ main{
     background-color: var(--cor1);
     padding: 15px;
     margin: auto;
-    
-
 }
 main h1{
     color: var(--cor5);
@@ -145,6 +143,8 @@ main a:hover{
 
 main img{
         width: 100%;
+        max-width: 250px;
+        margin-top: 15px;
 }
 main img.pequena{
     max-width: 360px;
