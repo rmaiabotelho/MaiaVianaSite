@@ -72,6 +72,7 @@ nav > a {
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
+    
 }
 nav > a:hover{
     background-color: var(--cor4);
@@ -133,6 +134,7 @@ main a{
     padding: 2px 5px;
     background-color: var(--cor1);
     border-radius: 3px;
+    margin-left: 2px;
 }
 main a:hover{
     background-color: var(--cor2);
@@ -145,6 +147,7 @@ main img{
         width: 100%;
         max-width: 250px;
         margin-top: 15px;
+        margin-left: 5px;
 }
 main img.pequena{
     max-width: 360px;
