@@ -180,7 +180,7 @@ footer{
     padding: 5px;
 }
 footer a{
-    color: rgba(199, 62, 62, 0.842);
+    color: var(--cor0);
     text-decoration: none;
     font-weight: bold;
 }
